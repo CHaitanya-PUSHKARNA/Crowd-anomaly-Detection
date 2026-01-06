@@ -72,6 +72,9 @@ This architecture mirrors the logic used in the original notebook, but in a **si
 Full-scale training and evaluation are performed in the notebook.
 
 ---
+##Link for the Dataset is below
+
+https://www.kaggle.com/datasets/magicearth25/video-violence-detection-dataset/data
 
 ## ▶️ How to Run (Sample)
 
@@ -81,3 +84,4 @@ python run.py
 
 Real-time inference
 python -m src.inference
+
